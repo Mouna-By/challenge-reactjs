@@ -1,0 +1,28 @@
+.slide{
+    width: 550px;
+    height: 400px;
+    margin: auto;
+
+}
+.footer{
+    width: 100%;
+    color:rgb(77, 71, 71);
+    opacity: .7;
+    margin: auto;
+    padding-bottom: 3%;
+    margin-top: 4%;
+    border-top: grey solid;
+}
+.form{
+    margin-left: 450px;
+    margin-right: 450px;
+}
+.team{
+    
+    color: rgb(120, 120, 122);
+}
+.video{
+    width: 500px;
+    height: 350px;
+    margin-left: 380px;
+}
